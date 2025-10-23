@@ -1,0 +1,2132 @@
+Uri: https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&family=Roboto:wght@400&display=swap
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=DM+Sans:regular,500
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\css-8
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Hind:ital%2Cwght%400%2C600%3B0%2C500%3B&ver=6.8.3
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\css-7
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Mulish:ital%2Cwght%400%2C400%3B0%2C400%3B0%2C600%3B0%2C400%3B&ver=6.8.3
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\css-6
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400normal
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\css-9
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Plus+Jakarta+Sans:regular,600
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\css-10
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRSW3z.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRSW3z-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxRSW3z.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxRSW3z-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfJpbERySiA.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\s\hind\v18\5aU19_a8oxmIfJpbERySiA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfLZcERySiA.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\s\hind\v18\5aU19_a8oxmIfLZcERySiA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hind/v18/5aU69_a8oxmIdGl4AQ.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\s\hind\v18\5aU69_a8oxmIdGl4AQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v18/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSKeOfGZQ_.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\s\mulish\v18\1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSKeOfGZQ_-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v18/1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1W8aevHg.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\s\mulish\v18\1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1W8aevHg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v18/1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNR8aevHg.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\s\mulish\v18\1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNR8aevHg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0n9TR_Q.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0n9TR_Q-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU79TR_Q.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU79TR_Q-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v49/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\s\roboto\v49\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT-1.ttf
+Content Type: font/ttf
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyCHemlRb6-WohnalGOoJnWNGv7RPVHQlDk
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\maps\api\js
+Content Type: text/javascript
+
+Uri: https://preview.treethemes.com/hazel5/demo19/wp-content/uploads/sites/58/2025/01/proj-1-1.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\hazel5\demo19\wp-content\uploads\sites\58\2025\01\proj-1-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.treethemes.com/hazel5/demo19/wp-content/uploads/sites/58/2025/01/proj-11.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\hazel5\demo19\wp-content\uploads\sites\58\2025\01\proj-11-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.treethemes.com/hazel5/demo19/wp-content/uploads/sites/58/2025/01/proj-2.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\hazel5\demo19\wp-content\uploads\sites\58\2025\01\proj-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.treethemes.com/hazel5/demo19/wp-content/uploads/sites/58/2025/01/proj-4.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\hazel5\demo19\wp-content\uploads\sites\58\2025\01\proj-4.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.treethemes.com/hazel5/demo19/wp-content/uploads/sites/58/2025/01/proj-8.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\hazel5\demo19\wp-content\uploads\sites\58\2025\01\proj-8.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.treethemes.com/hazel5/demo19/wp-content/uploads/sites/58/2025/01/proj-9.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\hazel5\demo19\wp-content\uploads\sites\58\2025\01\proj-9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.treethemes.com/pine/maindemo/wp-content/uploads/sites/2/2025/01/proj-1-1.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\pine\maindemo\wp-content\uploads\sites\2\2025\01\proj-1-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.treethemes.com/pine/maindemo/wp-content/uploads/sites/2/2025/01/proj-11.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\pine\maindemo\wp-content\uploads\sites\2\2025\01\proj-11-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.treethemes.com/pine/maindemo/wp-content/uploads/sites/2/2025/01/proj-2.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\pine\maindemo\wp-content\uploads\sites\2\2025\01\proj-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.treethemes.com/pine/maindemo/wp-content/uploads/sites/2/2025/01/proj-3.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\pine\maindemo\wp-content\uploads\sites\2\2025\01\proj-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.treethemes.com/pine/maindemo/wp-content/uploads/sites/2/2025/01/proj-4.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\pine\maindemo\wp-content\uploads\sites\2\2025\01\proj-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.treethemes.com/pine/maindemo/wp-content/uploads/sites/2/2025/01/proj-5.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\pine\maindemo\wp-content\uploads\sites\2\2025\01\proj-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.treethemes.com/pine/maindemo/wp-content/uploads/sites/2/2025/01/proj-m1.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\pine\maindemo\wp-content\uploads\sites\2\2025\01\proj-m1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.treethemes.com/pine/maindemo/wp-content/uploads/sites/2/2025/01/proj-m6.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\pine\maindemo\wp-content\uploads\sites\2\2025\01\proj-m6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.treethemes.com/pine/maindemo/wp-content/uploads/sites/2/2025/01/proj-m8.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\pine\maindemo\wp-content\uploads\sites\2\2025\01\proj-m8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/agency/wp-content/uploads/sites/4/2025/08/deeplogo-light.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\agency\wp-content\uploads\sites\4\2025\08\deeplogo-light.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/agency/wp-content/uploads/sites/4/2025/08/deeplogo.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\agency\wp-content\uploads\sites\4\2025\08\deeplogo.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/agency/wp-content/uploads/sites/4/2025/08/Satoshi-Bold.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\agency\wp-content\uploads\sites\4\2025\08\Satoshi-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://themes.boldway.agency/deep/agency/wp-content/uploads/sites/4/2025/08/Satoshi-Bold.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\agency\wp-content\uploads\sites\4\2025\08\Satoshi-Bold.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/agency/wp-content/uploads/sites/4/2025/08/Satoshi-Bold.woff2
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\agency\wp-content\uploads\sites\4\2025\08\Satoshi-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://themes.boldway.agency/deep/agency/wp-content/uploads/sites/4/2025/08/Satoshi-Regular.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\agency\wp-content\uploads\sites\4\2025\08\Satoshi-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://themes.boldway.agency/deep/agency/wp-content/uploads/sites/4/2025/08/Satoshi-Regular.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\agency\wp-content\uploads\sites\4\2025\08\Satoshi-Regular.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/agency/wp-content/uploads/sites/4/2025/08/Satoshi-Regular.woff2
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\agency\wp-content\uploads\sites\4\2025\08\Satoshi-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://themes.boldway.agency/deep/agency/wp-content/uploads/sites/4/2025/08/Zodiak-Light.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\agency\wp-content\uploads\sites\4\2025\08\Zodiak-Light.ttf
+Content Type: font/ttf
+
+Uri: https://themes.boldway.agency/deep/agency/wp-content/uploads/sites/4/2025/08/Zodiak-Light.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\agency\wp-content\uploads\sites\4\2025\08\Zodiak-Light.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/agency/wp-content/uploads/sites/4/2025/08/Zodiak-Light.woff2
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\agency\wp-content\uploads\sites\4\2025\08\Zodiak-Light.woff2
+Content Type: font/woff2
+
+Uri: https://themes.boldway.agency/deep/onepage3/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/author/deep/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\author\deep\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/author/deep/feed/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\author\deep\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/blog-post-with-image/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\blog-post-with-image\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/blog-post-with-image/feed/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\blog-post-with-image\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/blog/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\blog\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/category/branding/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\category\branding\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/category/branding/feed/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\category\branding\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/category/dev/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\category\dev\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/category/dev/feed/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\category\dev\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/category/other/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\category\other\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/category/other/feed/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\category\other\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/category/photography/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\category\photography\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/category/photography/feed/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\category\photography\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/category/slider/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\category\slider\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/category/slider/feed/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\category\slider\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/category/video/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\category\video\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/category/video/feed/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\category\video\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/comments/feed/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/duis-tristique-condimentum-2/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\duis-tristique-condimentum-2\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/duis-tristique-condimentum-2/feed/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\duis-tristique-condimentum-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/feed/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/meet-the-new-web-design-trends/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\meet-the-new-web-design-trends\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/meet-the-new-web-design-trends/feed/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\meet-the-new-web-design-trends\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/minimalistic-design/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\minimalistic-design\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/minimalistic-design/feed/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\minimalistic-design\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/motion-design/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\motion-design\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/motion-design/feed/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\motion-design\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/portfolio/card-mockup-2/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\portfolio\card-mockup-2\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/portfolio/faces-2/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\portfolio\faces-2\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/portfolio/fox-artwork-2/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\portfolio\fox-artwork-2\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/portfolio/lansdcape/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\portfolio\lansdcape\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/portfolio/lettering-logos/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\portfolio\lettering-logos\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/portfolio/meditation-app-2/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\portfolio\meditation-app-2\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/portfolio/paintings-2/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\portfolio\paintings-2\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/portfolio/shapes-2/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\portfolio\shapes-2\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/portfolio/woman-artwork-2/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\portfolio\woman-artwork-2\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/random-explorations-with-cinema-4d-and-redshift/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\random-explorations-with-cinema-4d-and-redshift\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/random-explorations-with-cinema-4d-and-redshift/feed/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\random-explorations-with-cinema-4d-and-redshift\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/spotlight-equinox-collection-by-shane-griffin/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\spotlight-equinox-collection-by-shane-griffin\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/spotlight-equinox-collection-by-shane-griffin/feed/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\spotlight-equinox-collection-by-shane-griffin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/visually-identity-and-branding-for-uk-restaurant/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\visually-identity-and-branding-for-uk-restaurant\index.htm
+Content Type: text/html
+
+Uri: https://themes.boldway.agency/deep/onepage3/visually-identity-and-branding-for-uk-restaurant/feed/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\visually-identity-and-branding-for-uk-restaurant\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/cubeportfolio/public/css/main.min-1.13.2.css?ver=5.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\cubeportfolio\public\css\main.min-1.13.2.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/cubeportfolio/public/img/cbp-sprite.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\cubeportfolio\public\img\cbp-sprite.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/cubeportfolio/public/js/main.min-1.13.2.js?ver=5.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\cubeportfolio\public\js\main.min-1.13.2.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=8.6.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\css\js_composer.min.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/css/js_composer_tta.min.css?ver=8.6.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\css\js_composer_tta.min.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.ttf
+Content Type: font/ttf
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/fonts/vc_icons/fonts/vcpb-plugin-icons.eot?30guqj
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\fonts\vc_icons\fonts\vcpb-plugin-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/fonts/vc_icons/fonts/vcpb-plugin-icons.svg?30guqj
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\fonts\vc_icons\fonts\vcpb-plugin-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/fonts/vc_icons/fonts/vcpb-plugin-icons.ttf?30guqj
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\fonts\vc_icons\fonts\vcpb-plugin-icons.ttf
+Content Type: font/ttf
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/fonts/vc_icons/fonts/vcpb-plugin-icons.woff?30guqj
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\fonts\vc_icons\fonts\vcpb-plugin-icons.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/flickr.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\flickr.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/address-book.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\address-book.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\alarm-clock.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/anchor.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\anchor.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/application-image.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\application-image.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/arrow.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\arrow.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/asterisk.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\asterisk.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\auction-hammer.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\balloon-buzz.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\balloon-facebook.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\balloon-twitter.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/balloon.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\balloon.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/battery-full.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\battery-full.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/binocular.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\binocular.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\blue-document-excel.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\blue-document-image.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\blue-document-music.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\blue-document-office.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\blue-document-pdf.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\blue-document-powerpoint.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\blue-document-word.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/bookmark.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\bookmark.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/camcorder.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\camcorder.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/camera.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\camera.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\chart-pie.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/chart.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\chart.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/clock.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\clock.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/control.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\control.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/fire.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\fire.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/heart.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\heart.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/mail.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\mail.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\plus-shield.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/icons/video.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\icons\video.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/spinner.gif
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\spinner.gif
+Content Type: image/gif
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/toggle_close.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\toggle_close.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/images/toggle_open.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\images\toggle_open.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=8.6.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\js\dist\js_composer_front.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/js/dist/vc_grid.min.js?ver=8.6.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\js\dist\vc_grid.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/lib/vc/vc-tta-autoplay/vc-tta-autoplay.min.js?ver=8.6.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\lib\vc\vc-tta-autoplay\vc-tta-autoplay.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/lib/vc/vc_accordion/vc-accordion.min.js?ver=8.6.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\lib\vc\vc_accordion\vc-accordion.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/lib/vc/vc_waypoints/vc-waypoints.min.js?ver=8.6.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\lib\vc\vc_waypoints\vc-waypoints.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/lib/vendor/node_modules/animate.css/animate.min.css?ver=8.6.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\lib\vendor\node_modules\animate.css\animate.min.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/lib/vendor/node_modules/imagesloaded/imagesloaded.pkgd.min.js?ver=8.6.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\lib\vendor\node_modules\imagesloaded\imagesloaded.pkgd.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/lib/vendor/node_modules/lightbox2/dist/css/lightbox.min.css?ver=8.6.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\lib\vendor\node_modules\lightbox2\dist\css\lightbox.min.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/lib/vendor/node_modules/lightbox2/dist/images/close.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\lib\vendor\node_modules\lightbox2\dist\images\close.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/lib/vendor/node_modules/lightbox2/dist/images/loading.gif
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\lib\vendor\node_modules\lightbox2\dist\images\loading.gif
+Content Type: image/gif
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/lib/vendor/node_modules/lightbox2/dist/images/next.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\lib\vendor\node_modules\lightbox2\dist\images\next.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/lib/vendor/node_modules/lightbox2/dist/images/prev.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\lib\vendor\node_modules\lightbox2\dist\images\prev.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/lib/vendor/node_modules/lightbox2/dist/js/lightbox.min.js?ver=8.6.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\lib\vendor\node_modules\lightbox2\dist\js\lightbox.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/vc/alert.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\vc\alert.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/vc/blur.svg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\vc\blur.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/vc/exclamation.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\vc\exclamation.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/vc/info.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\vc\info.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/vc/remove.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\vc\remove.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/js_composer/assets/vc/tick.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\js_composer\assets\vc\tick.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/revslider/public/css/sr7.css?ver=6.7.36
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\revslider\public\css\sr7.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/revslider/public/js/libs/tptools.js?ver=6.7.36
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\revslider\public\js\libs\tptools.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/revslider/public/js/sr7.js?ver=6.7.36
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\revslider\public\js\sr7.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/css/fonts/ult-silk.eot
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\css\fonts\ult-silk.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/css/fonts/ult-silk.svg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\css\fonts\ult-silk.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/css/fonts/ult-silk.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\css\fonts\ult-silk.ttf
+Content Type: font/ttf
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/css/fonts/ult-silk.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\css\fonts\ult-silk.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/css/icons.css?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\css\icons.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/images/cover.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\images\cover.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/images/fabric.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\images\fabric.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/img/cross.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\img\cross.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/img/ov-plus.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\img\ov-plus.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/advanced-buttons.min.css?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\advanced-buttons.min.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/animate.min.css?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\animate.min.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/background-style.min.css?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\background-style.min.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/content-box.min.css?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\content-box.min.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\fonts\slick.ttf
+Content Type: font/ttf
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\fonts\slick.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/ult-silk.eot
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\fonts\ult-silk.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/ult-silk.svg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\fonts\ult-silk.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/ult-silk.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\fonts\ult-silk.ttf
+Content Type: font/ttf
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/ult-silk.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\fonts\ult-silk.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/info-box.min.css?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\info-box.min.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/slick.min.css?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\slick.min.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/sticky-section.min.css?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\sticky-section.min.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/style.min.css?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\style.min.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/ultimate.min.css?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\ultimate.min.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/video_module.min.css?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\video_module.min.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/content-box.min.js?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\content-box.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/custom.min.js?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\custom.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/fixto.min.js?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\fixto.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/info-box.min.js?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\info-box.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/jquery-appear.min.js?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\jquery-appear.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/slick-custom.min.js?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\slick-custom.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/slick.min.js?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\slick.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/SmoothScroll.min.js?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\SmoothScroll.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/sticky-section.min.js?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\sticky-section.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate-params.min.js?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\ultimate-params.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate.min.js?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\ultimate.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate_bg.min.js?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\ultimate_bg.min-1.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate_bg.min.js?ver=6.8.3
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\ultimate_bg.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/vhparallax.min.js?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\vhparallax.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/video_module.min.js?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\video_module.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/blog.css?ver=6.8.3
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\blog.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/component.css?ver=6.8.3
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\component.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/deep-custom.css?ver=6.8.3
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\deep-custom.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/deep-foundations.css?ver=6.8.3
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\deep-foundations.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/deep-woo-layout.css?ver=6.8.3
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\deep-woo-layout.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/deep-woocommerce.css?ver=6.8.3
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\deep-woocommerce.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/dripicons-v2.eot
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\dripicons-v2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/dripicons-v2.eot?
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\dripicons-v2-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/dripicons-v2.svg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\dripicons-v2.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/dripicons-v2.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\dripicons-v2.ttf
+Content Type: font/ttf
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/dripicons-v2.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\dripicons-v2.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/ionicons.eot?v=2.0.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/ionicons.svg?v=2.0.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/ionicons.ttf?v=2.0.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\ionicons.ttf
+Content Type: font/ttf
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome/ionicons.woff?v=2.0.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome\ionicons.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome4/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome4\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome4/fontawesome-webfont.eot?v=4.3.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome4\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome4/fontawesome-webfont.svg?v=4.3.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome4\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome4/fontawesome-webfont.ttf?v=4.3.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome4\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome4/fontawesome-webfont.woff2?v=4.3.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome4\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/font-awesome4/fontawesome-webfont.woff?v=4.3.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\font-awesome4\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/fontawesome4.css?ver=6.8.3
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\fontawesome4.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/icons-font.css?ver=6.8.3
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\icons-font.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/mb.YTPlayer.css?ver=6.8.3
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\mb.YTPlayer.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/retina.css?ver=6.8.3
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\retina.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/selectWoo.min.css?ver=6.8.3
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\selectWoo.min.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/splitting.css?ver=6.8.3
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\splitting.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/clash-display/ClashDisplay-Medium.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\clash-display\ClashDisplay-Medium.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/clash-display/ClashDisplay-Medium.woff2
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\clash-display\ClashDisplay-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/clash-display/ClashDisplay-Regular.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\clash-display\ClashDisplay-Regular.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/clash-display/ClashDisplay-Regular.woff2
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\clash-display\ClashDisplay-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/clash-grotesk/ClashGrotesk-Medium.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\clash-grotesk\ClashGrotesk-Medium.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/clash-grotesk/ClashGrotesk-Medium.woff2
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\clash-grotesk\ClashGrotesk-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/clash-grotesk/ClashGrotesk-Regular.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\clash-grotesk\ClashGrotesk-Regular.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/clash-grotesk/ClashGrotesk-Regular.woff2
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\clash-grotesk\ClashGrotesk-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/hk-grotesk/hkgrotesk-italic-webfont.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\hk-grotesk\hkgrotesk-italic-webfont.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/hk-grotesk/hkgrotesk-italic-webfont.woff2
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\hk-grotesk\hkgrotesk-italic-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/hk-grotesk/hkgrotesk-medium-webfont.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\hk-grotesk\hkgrotesk-medium-webfont.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/hk-grotesk/hkgrotesk-medium-webfont.woff2
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\hk-grotesk\hkgrotesk-medium-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/hk-grotesk/hkgrotesk-regular-webfont.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\hk-grotesk\hkgrotesk-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/hk-grotesk/hkgrotesk-regular-webfont.woff2
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\hk-grotesk\hkgrotesk-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/hk-grotesk/hkgrotesk-semibold-webfont.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\hk-grotesk\hkgrotesk-semibold-webfont.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/hk-grotesk/hkgrotesk-semibold-webfont.woff2
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\hk-grotesk\hkgrotesk-semibold-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/icomoon/icomoon.svg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\icomoon\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/icomoon/icomoon.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\icomoon\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/icomoon/icomoon.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\icomoon\icomoon.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/icons.svg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\icons.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/icons.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\icons.ttf
+Content Type: font/ttf
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/icons.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\icons.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/satoshi/Satoshi-Italic.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\satoshi\Satoshi-Italic.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/satoshi/Satoshi-Italic.woff2
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\satoshi\Satoshi-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/satoshi/Satoshi-Medium.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\satoshi\Satoshi-Medium.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/satoshi/Satoshi-Medium.woff2
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\satoshi\Satoshi-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/satoshi/Satoshi-Regular.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\satoshi\Satoshi-Regular.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/satoshi/Satoshi-Regular.woff2
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\satoshi\Satoshi-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/zodiak/Zodiak-Light.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\zodiak\Zodiak-Light.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/css/webfonts/zodiak/Zodiak-Light.woff2
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\css\webfonts\zodiak\Zodiak-Light.woff2
+Content Type: font/woff2
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/functions/css/shortcodes.css?ver=6.8.3
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\functions\css\shortcodes.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/icon-fonts/star.eot
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\icon-fonts\star.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/icon-fonts/star.eot?
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\icon-fonts\star-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/icon-fonts/star.svg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\icon-fonts\star.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/icon-fonts/star.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\icon-fonts\star.ttf
+Content Type: font/ttf
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/icon-fonts/star.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\icon-fonts\star.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/icon-fonts/WooCommerce.eot
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\icon-fonts\WooCommerce.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/icon-fonts/WooCommerce.eot?
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\icon-fonts\WooCommerce-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/icon-fonts/WooCommerce.svg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\icon-fonts\WooCommerce.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/icon-fonts/WooCommerce.ttf
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\icon-fonts\WooCommerce.ttf
+Content Type: font/ttf
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/icon-fonts/WooCommerce.woff
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\icon-fonts\WooCommerce.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/images/ajx_loading.gif
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\images\ajx_loading.gif
+Content Type: image/gif
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/images/blockquote-light.svg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\images\blockquote-light.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/images/blockquote.svg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\images\blockquote.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/images/check_radio_sheet.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\images\check_radio_sheet.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/images/grayscale.svg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\images\grayscale.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/images/mark-decoration-1-white.svg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\images\mark-decoration-1-white.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/images/mark-decoration-1.svg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\images\mark-decoration-1.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/images/mark-decoration-5.svg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\images\mark-decoration-5.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/images/mark-decoration-55.svg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\images\mark-decoration-55.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/images/sprite.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\images\sprite.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/js/blog.js?ver=1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\js\blog.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/js/global.js?ver=1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\js\global.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/js/utils/all.js?ver=1.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\js\utils\all.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/js/utils/boldway-isotope.js?ver=1.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\js\utils\boldway-isotope.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/js/utils/boldway-modernizr.js?ver=1.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\js\utils\boldway-modernizr.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/js/utils/bootstrap.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\js\utils\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/js/utils/instant.page.js?ver=1.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\js\utils\instant.page.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/js/utils/jquery.dlmenu.js?ver=1.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\js\utils\jquery.dlmenu.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/js/utils/jquery.flexslider-min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\js\utils\jquery.flexslider-min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/js/utils/jquery.select2.js?ver=1.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\js\utils\jquery.select2.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/js/utils/jquery.stellar.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\js\utils\jquery.stellar.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/js/utils/plugins.js?ver=1.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\js\utils\plugins.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/js/utils/queryLoader.js?ver=1.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\js\utils\queryLoader.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/js/utils/splitting.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\js\utils\splitting.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/js/utils/waypoint.js?ver=1.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\js\utils\waypoint.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/themes/deep/style.css?ver=1.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\themes\deep\style.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/proj-3-1-1024x768.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\proj-3-1-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/proj-3-1-300x225.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\proj-3-1-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/proj-3-1-768x576.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\proj-3-1-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/proj-3-1.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\proj-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/proj-3-2-1024x768.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\proj-3-2-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/proj-3-2-300x225.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\proj-3-2-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/proj-3-2-768x576.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\proj-3-2-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/proj-3-2.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\proj-3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/proj-3-3-1024x768.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\proj-3-3-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/proj-3-3-300x225.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\proj-3-3-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/proj-3-3-768x576.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\proj-3-3-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/proj-3-3.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\proj-3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/proj-3-4-1024x768.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\proj-3-4-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/proj-3-4-300x225.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\proj-3-4-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/proj-3-4-768x576.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\proj-3-4-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/proj-3-4.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\proj-3-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/shapes-project-1000x563.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\shapes-project-1000x563.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/shapes-project-1024x576.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\shapes-project-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/shapes-project-1536x864.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\shapes-project-1536x864.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/shapes-project-300x169.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\shapes-project-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/shapes-project-768x432.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\shapes-project-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/shapes-project.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\shapes-project.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/shapes-project2-1000x563.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\shapes-project2-1000x563.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/shapes-project2-1024x576.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\shapes-project2-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/shapes-project2-1536x864.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\shapes-project2-1536x864.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/shapes-project2-300x169.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\shapes-project2-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/shapes-project2-768x432.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\shapes-project2-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2022/08/shapes-project2.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2022\08\shapes-project2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/clem-onojeghuo-zlABb6Gke24-unsplash-1000x1000.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\clem-onojeghuo-zlABb6Gke24-unsplash-1000x1000.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/clem-onojeghuo-zlABb6Gke24-unsplash-150x150.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\clem-onojeghuo-zlABb6Gke24-unsplash-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/clem-onojeghuo-zlABb6Gke24-unsplash-500x500.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\clem-onojeghuo-zlABb6Gke24-unsplash-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/clem-onojeghuo-zlABb6Gke24-unsplash-80x80.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\clem-onojeghuo-zlABb6Gke24-unsplash-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/clem-onojeghuo-zlABb6Gke24-unsplash.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\clem-onojeghuo-zlABb6Gke24-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/daniel-guerra-MjZwrERreuY-unsplash-1000x1000.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\daniel-guerra-MjZwrERreuY-unsplash-1000x1000.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/daniel-guerra-MjZwrERreuY-unsplash-150x150.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\daniel-guerra-MjZwrERreuY-unsplash-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/daniel-guerra-MjZwrERreuY-unsplash-500x500.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\daniel-guerra-MjZwrERreuY-unsplash-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/daniel-guerra-MjZwrERreuY-unsplash-80x80.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\daniel-guerra-MjZwrERreuY-unsplash-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/daniel-guerra-MjZwrERreuY-unsplash.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\daniel-guerra-MjZwrERreuY-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/jeffrey-okyere-S4q8wDkre0k-unsplash-1000x1000.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\jeffrey-okyere-S4q8wDkre0k-unsplash-1000x1000.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/jeffrey-okyere-S4q8wDkre0k-unsplash-150x150.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\jeffrey-okyere-S4q8wDkre0k-unsplash-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/jeffrey-okyere-S4q8wDkre0k-unsplash-500x500.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\jeffrey-okyere-S4q8wDkre0k-unsplash-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/jeffrey-okyere-S4q8wDkre0k-unsplash-80x80.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\jeffrey-okyere-S4q8wDkre0k-unsplash-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/jeffrey-okyere-S4q8wDkre0k-unsplash.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\jeffrey-okyere-S4q8wDkre0k-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/priscilla-du-preez-nF8xhLMmg0c-unsplash-1000x1000.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\priscilla-du-preez-nF8xhLMmg0c-unsplash-1000x1000.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/priscilla-du-preez-nF8xhLMmg0c-unsplash-150x150.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\priscilla-du-preez-nF8xhLMmg0c-unsplash-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/priscilla-du-preez-nF8xhLMmg0c-unsplash-500x500.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\priscilla-du-preez-nF8xhLMmg0c-unsplash-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/priscilla-du-preez-nF8xhLMmg0c-unsplash-80x80.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\priscilla-du-preez-nF8xhLMmg0c-unsplash-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/priscilla-du-preez-nF8xhLMmg0c-unsplash.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\priscilla-du-preez-nF8xhLMmg0c-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-1-1-1024x767.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-1-1-1024x767.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-1-1-300x225.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-1-1-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-1-1-768x576.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-1-1-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-1-1.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-10-1024x768.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-10-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-10-300x225.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-10-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-10-768x576.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-10-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-10.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-10.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-11-1024x768.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-11-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-11-300x225.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-11-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-11-768x576.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-11-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-11.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-11.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-2-1024x769.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-2-1024x769.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-2-300x225.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-2-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-2-768x577.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-2-768x577.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-2.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-3-1024x768.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-3-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-3-300x225.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-3-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-3-768x576.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-3-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-3.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-4-1024x769.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-4-1024x769.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-4-300x225.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-4-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-4-768x577.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-4-768x577.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-4.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-5-1024x769.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-5-1024x769.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-5-300x225.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-5-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-5-768x577.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-5-768x577.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-5.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-6-1024x769.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-6-1024x769.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-6-300x225.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-6-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-6-768x577.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-6-768x577.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-6.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-6.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-7-1024x769.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-7-1024x769.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-7-300x225.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-7-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-7-768x577.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-7-768x577.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-7.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-7.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-8-1024x769.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-8-1024x769.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-8-300x225.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-8-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-8-768x577.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-8-768x577.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-8.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-8.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-9-1024x768.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-9-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-9-300x225.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-9-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-9-768x576.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-9-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-9.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-9.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-m7-300x155.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-m7-300x155.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-m7-768x397.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-m7-768x397.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-m7.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-m7.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-m8-233x300.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-m8-233x300.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-m8-768x990.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-m8-768x990.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-m8-794x1024.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-m8-794x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-m8.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-m8.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-m9-300x155.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-m9-300x155.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-m9-768x397.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-m9-768x397.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/01/proj-m9.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\01\proj-m9.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/ABOUTPIC.jpg?id=5676
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\ABOUTPIC.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/darkbg.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\darkbg.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/dmitry-grachyov-Vk5QnltwHQo-unsplash.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\dmitry-grachyov-Vk5QnltwHQo-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/musemind-ux-agency-LAN0QkZcrpc-unsplash-1000x1000.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\musemind-ux-agency-LAN0QkZcrpc-unsplash-1000x1000.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/musemind-ux-agency-LAN0QkZcrpc-unsplash-150x150.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\musemind-ux-agency-LAN0QkZcrpc-unsplash-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/musemind-ux-agency-LAN0QkZcrpc-unsplash-500x500.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\musemind-ux-agency-LAN0QkZcrpc-unsplash-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/musemind-ux-agency-LAN0QkZcrpc-unsplash-80x80.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\musemind-ux-agency-LAN0QkZcrpc-unsplash-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/musemind-ux-agency-LAN0QkZcrpc-unsplash.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\musemind-ux-agency-LAN0QkZcrpc-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/nataliia-rabinovych-2VOmgturyNY-unsplash-225x300.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\nataliia-rabinovych-2VOmgturyNY-unsplash-225x300.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/nataliia-rabinovych-2VOmgturyNY-unsplash-500x500.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\nataliia-rabinovych-2VOmgturyNY-unsplash-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/nataliia-rabinovych-2VOmgturyNY-unsplash.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\nataliia-rabinovych-2VOmgturyNY-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/team1-500x500.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\team1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/team2.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\team2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/team3.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\team3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/team4-1.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\team4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/team4-500x500.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\team4-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/team5.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\team5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/testimonial-1-1-500x500.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\testimonial-1-1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/testimonial-1-1.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\testimonial-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/testimonial-3.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\testimonial-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/05/testimonials-500x500.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\05\testimonials-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/08/box.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\08\box.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/08/cropped-deeplogo-light-1-180x180.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\08\cropped-deeplogo-light-1-180x180.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/08/cropped-deeplogo-light-1-192x192.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\08\cropped-deeplogo-light-1-192x192.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/08/cropped-deeplogo-light-1-32x32.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\08\cropped-deeplogo-light-1-32x32.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/08/element-newproject.svg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\08\element-newproject.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/08/good-quality.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\08\good-quality.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/08/miguel-salgado-agvoJ0dIxZ4-unsplash.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\08\miguel-salgado-agvoJ0dIxZ4-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/08/service1.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\08\service1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/08/service2.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\08\service2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/08/service3.jpg
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\08\service3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/2025/08/solution.png
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\2025\08\solution.png
+Content Type: image/png
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/smile_fonts/Defaults/Defaults.css?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\smile_fonts\Defaults\Defaults.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/smile_fonts/Defaults/Defaults.eot?sni4t6
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\smile_fonts\Defaults\Defaults.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/smile_fonts/Defaults/Defaults.svg?sni4t6
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\smile_fonts\Defaults\Defaults.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/smile_fonts/Defaults/Defaults.ttf?sni4t6
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\smile_fonts\Defaults\Defaults.ttf
+Content Type: font/ttf
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/smile_fonts/Defaults/Defaults.woff?sni4t6
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\smile_fonts\Defaults\Defaults.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/smile_fonts/iconsreso/iconsreso.css?ver=3.21.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\smile_fonts\iconsreso\iconsreso.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/smile_fonts/iconsreso/iconsreso.eot?rejbq0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\smile_fonts\iconsreso\iconsreso.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/smile_fonts/iconsreso/iconsreso.svg?rejbq0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\smile_fonts\iconsreso\iconsreso.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/smile_fonts/iconsreso/iconsreso.ttf?rejbq0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\smile_fonts\iconsreso\iconsreso.ttf
+Content Type: font/ttf
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-content/uploads/sites/28/smile_fonts/iconsreso/iconsreso.woff?rejbq0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-content\uploads\sites\28\smile_fonts\iconsreso\iconsreso.woff
+Content Type: font/woff
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-includes/js/comment-reply.min.js?ver=6.8.3
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-includes\js\comment-reply.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-includes\js\imagesloaded.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-includes\js\jquery\ui\effect.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-includes/js/masonry.min.js?ver=4.2.2
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-includes\js\masonry.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-includes/js/underscore.min.js?ver=1.13.7
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-includes\js\underscore.min.js
+Content Type: text/javascript
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2F
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2F&format=xml
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fblog%2F
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fblog%2F&format=xml
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fblog-post-with-image%2F
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fblog-post-with-image%2F&format=xml
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fduis-tristique-condimentum-2%2F
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fduis-tristique-condimentum-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fmeet-the-new-web-design-trends%2F
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fmeet-the-new-web-design-trends%2F&format=xml
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fminimalistic-design%2F
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fminimalistic-design%2F&format=xml
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fmotion-design%2F
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fmotion-design%2F&format=xml
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fportfolio%2Fcard-mockup-2%2F
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fportfolio%2Fcard-mockup-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fportfolio%2Ffaces-2%2F
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fportfolio%2Ffaces-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fportfolio%2Ffox-artwork-2%2F
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fportfolio%2Ffox-artwork-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fportfolio%2Flansdcape%2F
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fportfolio%2Flansdcape%2F&format=xml
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fportfolio%2Flettering-logos%2F
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fportfolio%2Flettering-logos%2F&format=xml
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fportfolio%2Fmeditation-app-2%2F
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fportfolio%2Fmeditation-app-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fportfolio%2Fpaintings-2%2F
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fportfolio%2Fpaintings-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fportfolio%2Fshapes-2%2F
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fportfolio%2Fshapes-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fportfolio%2Fwoman-artwork-2%2F
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fportfolio%2Fwoman-artwork-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Frandom-explorations-with-cinema-4d-and-redshift%2F
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Frandom-explorations-with-cinema-4d-and-redshift%2F&format=xml
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fspotlight-equinox-collection-by-shane-griffin%2F
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fspotlight-equinox-collection-by-shane-griffin%2F&format=xml
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fvisually-identity-and-branding-for-uk-restaurant%2F
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/oembed/1.0/embed?url=https:%2F%2Fthemes.boldway.agency%2Fdeep%2Fonepage3%2Fvisually-identity-and-branding-for-uk-restaurant%2F&format=xml
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/wp/v2/categories/2
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\wp\v2\categories\2
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/wp/v2/categories/4
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\wp\v2\categories\4
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/wp/v2/categories/5
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\wp\v2\categories\5
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/wp/v2/categories/6
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\wp\v2\categories\6
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/wp/v2/categories/8
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\wp\v2\categories\8
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/wp/v2/categories/9
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\wp\v2\categories\9
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/wp/v2/pages/5331
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\wp\v2\pages\5331
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/wp/v2/pages/6132
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\wp\v2\pages\6132
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/wp/v2/posts/853
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\wp\v2\posts\853
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/wp/v2/posts/854
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\wp\v2\posts\854
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/wp/v2/posts/855
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\wp\v2\posts\855
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/wp/v2/posts/856
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\wp\v2\posts\856
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/wp/v2/posts/857
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\wp\v2\posts\857
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/wp/v2/posts/858
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\wp\v2\posts\858
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/wp/v2/posts/859
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\wp\v2\posts\859
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/wp/v2/posts/860
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\wp\v2\posts\860
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://themes.boldway.agency/deep/onepage3/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\themes.boldway.agency\deep\onepage3\xmlrpc.php
+Content Type: text/xml
+

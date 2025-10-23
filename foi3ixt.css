@@ -1,0 +1,96 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * agency-fb:
+ *   - http://typekit.com/eulas/0000000000000000773cc5a3
+ *   - http://typekit.com/eulas/0000000000000000773a48d3
+ *   - http://typekit.com/eulas/0000000000000000775aa7f5
+ * avenir-next-world:
+ *   - http://typekit.com/eulas/0000000000000000774ffbee
+ *   - http://typekit.com/eulas/0000000000000000774ffbef
+ *   - http://typekit.com/eulas/0000000000000000774ffbeb
+ *   - http://typekit.com/eulas/0000000000000000774ffbec
+ *   - http://typekit.com/eulas/0000000000000000774ffbf1
+ * ff-din-paneuropean:
+ *   - http://typekit.com/eulas/00000000000000007750e14b
+ *   - http://typekit.com/eulas/00000000000000007750e14a
+ *   - http://typekit.com/eulas/0000000000000000775476a2
+ *
+ * © 2009-2025 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2025-06-05 21:34:31 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"agency-fb";
+src:url("af/09358a/0000000000000000773cc5a3/31/l") format("woff2"),url("af/09358a/0000000000000000773cc5a3/31/d") format("woff"),url("af/09358a/0000000000000000773cc5a3/31/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"agency-fb";
+src:url("af/ee05d8/0000000000000000773a48d3/31/l") format("woff2"),url("af/ee05d8/0000000000000000773a48d3/31/d") format("woff"),url("af/ee05d8/0000000000000000773a48d3/31/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"agency-fb";
+src:url("af/cc9287/0000000000000000775aa7f5/31/l") format("woff2"),url("af/cc9287/0000000000000000775aa7f5/31/d") format("woff"),url("af/cc9287/0000000000000000775aa7f5/31/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"avenir-next-world";
+src:url("af/30a907/0000000000000000774ffbee/31/l") format("woff2"),url("af/30a907/0000000000000000774ffbee/31/d") format("woff"),url("af/30a907/0000000000000000774ffbee/31/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"avenir-next-world";
+src:url("af/5c0ee6/0000000000000000774ffbef/31/l") format("woff2"),url("af/5c0ee6/0000000000000000774ffbef/31/d") format("woff"),url("af/5c0ee6/0000000000000000774ffbef/31/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"avenir-next-world";
+src:url("af/2cf258/0000000000000000774ffbeb/31/l") format("woff2"),url("af/2cf258/0000000000000000774ffbeb/31/d") format("woff"),url("af/2cf258/0000000000000000774ffbeb/31/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"avenir-next-world";
+src:url("af/b0e3f4/0000000000000000774ffbec/31/l") format("woff2"),url("af/b0e3f4/0000000000000000774ffbec/31/d") format("woff"),url("af/b0e3f4/0000000000000000774ffbec/31/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"avenir-next-world";
+src:url("af/083ff4/0000000000000000774ffbf1/31/l") format("woff2"),url("af/083ff4/0000000000000000774ffbf1/31/d") format("woff"),url("af/083ff4/0000000000000000774ffbf1/31/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"ff-din-paneuropean";
+src:url("af/d9bbe9/00000000000000007750e14b/31/l") format("woff2"),url("af/d9bbe9/00000000000000007750e14b/31/d") format("woff"),url("af/d9bbe9/00000000000000007750e14b/31/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"ff-din-paneuropean";
+src:url("af/317c12/00000000000000007750e14a/31/l") format("woff2"),url("af/317c12/00000000000000007750e14a/31/d") format("woff"),url("af/317c12/00000000000000007750e14a/31/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"ff-din-paneuropean";
+src:url("af/f068a8/0000000000000000775476a2/31/l") format("woff2"),url("af/f068a8/0000000000000000775476a2/31/d") format("woff"),url("af/f068a8/0000000000000000775476a2/31/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+.tk-agency-fb { font-family: "agency-fb",sans-serif; }
+.tk-avenir-next-world { font-family: "avenir-next-world",sans-serif; }
+.tk-ff-din-paneuropean { font-family: "ff-din-paneuropean",sans-serif; }
